@@ -1,3 +1,4 @@
+# Functiom Vat
 def get_vat(payment, percent):
       try:
       	payment = float(payment)
