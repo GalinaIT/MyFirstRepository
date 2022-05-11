@@ -1,1 +1,5 @@
 passwords.txt
+*.log
+settings.py
+from telegram.ext import Updater.py
+__pycache__
